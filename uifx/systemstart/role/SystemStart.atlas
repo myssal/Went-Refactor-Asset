@@ -1,0 +1,69 @@
+
+SystemStart.png
+size: 1024,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 124
+  size: 514, 514
+  orig: 514, 514
+  offset: 0, 0
+  index: -1
+juxing_guang
+  rotate: false
+  xy: 779, 404
+  size: 70, 190
+  orig: 70, 190
+  offset: 0, 0
+  index: -1
+juxing_you
+  rotate: false
+  xy: 851, 398
+  size: 52, 166
+  orig: 52, 166
+  offset: 0, 0
+  index: -1
+juxing_zhong
+  rotate: false
+  xy: 851, 398
+  size: 52, 166
+  orig: 52, 166
+  offset: 0, 0
+  index: -1
+juxing_zuo
+  rotate: false
+  xy: 851, 398
+  size: 52, 166
+  orig: 52, 166
+  offset: 0, 0
+  index: -1
+waihuan_quan
+  rotate: true
+  xy: 518, 124
+  size: 514, 504
+  orig: 514, 504
+  offset: 0, 0
+  index: -1
+waihuan_shang
+  rotate: true
+  xy: 618, 79
+  size: 370, 100
+  orig: 370, 100
+  offset: 0, 0
+  index: -1
+waihuan_you
+  rotate: true
+  xy: 691, 3
+  size: 210, 330
+  orig: 210, 330
+  offset: 0, 0
+  index: -1
+waihuan_zuo
+  rotate: false
+  xy: 567, 283
+  size: 210, 329
+  orig: 210, 330
+  offset: 0, 1
+  index: -1

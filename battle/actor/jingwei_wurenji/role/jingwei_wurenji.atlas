@@ -1,0 +1,55 @@
+
+jingwei_wurenji.png
+size: 148,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liaoji
+  rotate: true
+  xy: 2, 2
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+luoxuanjiang
+  rotate: false
+  xy: 2, 57
+  size: 142, 30
+  orig: 142, 30
+  offset: 0, 0
+  index: -1
+wurenji_luoxuanjiang_zheng
+  rotate: true
+  xy: 2, 89
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+wurenji_shenti
+  rotate: false
+  xy: 2, 226
+  size: 136, 146
+  orig: 136, 146
+  offset: 0, 0
+  index: -1
+wurenji_youbi
+  rotate: true
+  xy: 2, 160
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+wurenji_zuobi
+  rotate: false
+  xy: 89, 138
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+yepian
+  rotate: false
+  xy: 62, 42
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1

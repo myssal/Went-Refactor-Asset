@@ -1,0 +1,62 @@
+
+bainiaochao_wurenji.png
+size: 224,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dipan
+  rotate: true
+  xy: 152, 34
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+shanye_1
+  rotate: false
+  xy: 152, 15
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+shanye_2
+  rotate: true
+  xy: 197, 34
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+shanye_3
+  rotate: true
+  xy: 197, 63
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shanye_4
+  rotate: true
+  xy: 207, 16
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+shanye_5
+  rotate: false
+  xy: 152, 3
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+shanye_6
+  rotate: true
+  xy: 189, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+wurenjishen
+  rotate: false
+  xy: 2, 5
+  size: 148, 80
+  orig: 148, 80
+  offset: 0, 0
+  index: -1

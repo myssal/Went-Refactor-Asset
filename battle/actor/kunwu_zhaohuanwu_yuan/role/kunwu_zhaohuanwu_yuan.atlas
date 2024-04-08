@@ -1,0 +1,125 @@
+
+kunwu_zhaohuanwu_yuan.png
+size: 510,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui_1
+  rotate: false
+  xy: 476, 52
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+houtui_2
+  rotate: true
+  xy: 398, 19
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+lunz_2
+  rotate: true
+  xy: 63, 4
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+lunzi_1
+  rotate: false
+  xy: 476, 22
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+lunzi_3
+  rotate: true
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pinmu
+  rotate: false
+  xy: 86, 26
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+qiantui_1
+  rotate: false
+  xy: 398, 76
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+qiantui_2
+  rotate: true
+  xy: 33, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+tianxian_1
+  rotate: false
+  xy: 459, 93
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+tianxian_2
+  rotate: true
+  xy: 151, 37
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: true
+  xy: 482, 103
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+yan_2
+  rotate: false
+  xy: 151, 13
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+yan_3
+  rotate: false
+  xy: 201, 13
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+yan_4
+  rotate: false
+  xy: 216, 39
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 61
+  size: 252, 93
+  orig: 252, 93
+  offset: 0, 0
+  index: -1
+zhongtui
+  rotate: true
+  xy: 2, 29
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: true
+  xy: 256, 22
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_fx_avatar_ulti_rdy.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/Asset_Connection_00
+  rotate: false
+  xy: 2, 134
+  size: 250, 220
+  orig: 250, 220
+  offset: 0, 0
+  index: -1
+common/fx_white
+  rotate: false
+  xy: 254, 254
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui_fx_avatar_ulti_rdy/ui_trangle
+  rotate: false
+  xy: 254, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

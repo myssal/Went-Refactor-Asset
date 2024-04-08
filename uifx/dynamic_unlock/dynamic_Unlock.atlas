@@ -1,0 +1,34 @@
+
+dynamic_Unlock.png
+size: 68,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suo
+  rotate: false
+  xy: 2, 80
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+suodi
+  rotate: false
+  xy: 2, 38
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+suotou
+  rotate: true
+  xy: 2, 3
+  size: 35, 45
+  orig: 64, 45
+  offset: 15, 0
+  index: -1
+suoying
+  rotate: false
+  xy: 2, 149
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1

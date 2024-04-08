@@ -1,0 +1,13 @@
+
+baize_mofashu.png
+size: 101,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu
+  rotate: false
+  xy: 2, 3
+  size: 97, 81
+  orig: 97, 94
+  offset: 0, 0
+  index: -1

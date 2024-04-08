@@ -1,0 +1,69 @@
+
+wurenji.png
+size: 431,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jijiao_1
+  rotate: false
+  xy: 412, 4
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+jijiao_2
+  rotate: false
+  xy: 412, 39
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+jijiao_3
+  rotate: false
+  xy: 392, 32
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+kuaidi
+  rotate: false
+  xy: 297, 8
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+wurenji_luoxuanjiang_zheng
+  rotate: false
+  xy: 226, 8
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+wurenji_shenti
+  rotate: false
+  xy: 145, 3
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+wurenji_youbi
+  rotate: true
+  xy: 360, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+wurenji_zhuti
+  rotate: false
+  xy: 2, 14
+  size: 141, 64
+  orig: 141, 64
+  offset: 0, 0
+  index: -1
+wurenji_zuobi
+  rotate: false
+  xy: 360, 32
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1

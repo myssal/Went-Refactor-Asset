@@ -1,0 +1,146 @@
+
+tiewei_fu.png
+size: 512,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 2, 20
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 81
+  size: 147, 126
+  orig: 147, 126
+  offset: 0, 0
+  index: -1
+qunbai_1
+  rotate: true
+  xy: 426, 252
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+qunbai_2
+  rotate: true
+  xy: 2, 42
+  size: 38, 100
+  orig: 39, 100
+  offset: 1, 0
+  index: -1
+qunbai_3
+  rotate: 180
+  xy: 140, 34
+  size: 81, 104
+  orig: 157, 104
+  offset: 27, 0
+  index: -1
+qunbai_4
+  rotate: false
+  xy: 217, 86
+  size: 110, 90
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 380, 84
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: 180
+  xy: 133, 136
+  size: 321, 188
+  orig: 321, 188
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 230
+  size: 252, 93
+  orig: 252, 93
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 317, 21
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 329, 95
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 139, 3
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+youshouzi
+  rotate: false
+  xy: 256, 290
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 457, 29
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 394, 22
+  size: 59, 61
+  orig: 69, 68
+  offset: 10, 7
+  index: -1
+zuodabi
+  rotate: true
+  xy: 223, 21
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 456, 185
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 63, 15
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 130, 189
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: 180
+  xy: 99, 17
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1

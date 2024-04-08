@@ -1,0 +1,48 @@
+
+jingwei_wurenji_shopping.png
+size: 216,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liaoji
+  rotate: true
+  xy: 139, 70
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+wurenji_shenti
+  rotate: false
+  xy: 2, 2
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+wurenji_youbi
+  rotate: false
+  xy: 139, 38
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+wurenji_zuobi
+  rotate: false
+  xy: 139, 5
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 193, 8
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 198, 38
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+daodanxiaoguai.png
+size: 503,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi_1
+  rotate: false
+  xy: 388, 248
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+bozi_2
+  rotate: false
+  xy: 318, 2
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+daodan
+  rotate: false
+  xy: 391, 5
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 475, 320
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+gaizi_1
+  rotate: false
+  xy: 391, 86
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+gaizi_2
+  rotate: false
+  xy: 2, 83
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+pigu
+  rotate: true
+  xy: 266, 187
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 151
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+tuijiao_1
+  rotate: true
+  xy: 236, 27
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+tuijiao_2
+  rotate: true
+  xy: 236, 27
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 266, 84
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 171, 85
+  size: 252, 93
+  orig: 252, 93
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 391, 154
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 391, 154
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 2, 33
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 2, 33
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 114, 26
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 114, 26
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1

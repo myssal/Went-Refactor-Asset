@@ -1,0 +1,48 @@
+
+ganjiang_wurenji.png
+size: 116,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 182
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+jitou_1
+  rotate: false
+  xy: 2, 38
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+jitou_2
+  rotate: false
+  xy: 95, 38
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+jiwei
+  rotate: false
+  xy: 2, 2
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1
+jiyi_1
+  rotate: false
+  xy: 2, 130
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+jiyi_2
+  rotate: false
+  xy: 2, 81
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1

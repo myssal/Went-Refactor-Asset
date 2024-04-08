@@ -1,0 +1,146 @@
+
+tiewei_gun.png
+size: 509,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 406, 23
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 114
+  size: 222, 81
+  orig: 222, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 256, 164
+  size: 147, 126
+  orig: 147, 126
+  offset: 0, 0
+  index: -1
+qunbai_1
+  rotate: 270
+  xy: 163, 40
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+qunbai_2
+  rotate: true
+  xy: 244, 41
+  size: 38, 100
+  orig: 39, 100
+  offset: 1, 0
+  index: -1
+qunbai_3
+  rotate: true
+  xy: 226, 82
+  size: 81, 104
+  orig: 157, 104
+  offset: 27, 0
+  index: -1
+qunbai_4
+  rotate: 180
+  xy: 348, 74
+  size: 110, 90
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 405, 161
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 197
+  size: 252, 93
+  orig: 252, 93
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 2, 43
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 346, 33
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 263, 10
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+youshouzi
+  rotate: false
+  xy: 190, 8
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 79, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 445, 36
+  size: 59, 61
+  orig: 69, 68
+  offset: 10, 7
+  index: -1
+zuodabi
+  rotate: true
+  xy: 79, 49
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 460, 96
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 227, 8
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 2, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 130, 7
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
